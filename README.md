@@ -1,1 +1,1 @@
-This repository contains my work for the 0x00. Python - Hello, World project
+This repository contains my work for all the projects using a high_level programming language: Python
